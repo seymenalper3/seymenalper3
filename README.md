@@ -1,4 +1,4 @@
-# Hello, I'm Seymen Alper 👋
+# Hello, I'm Seymen 👋
 
 I am a third-year Computer Engineering student with experience in data analysis, Android development, and real-time system monitoring. 
 I love working on innovative projects that solve real-world problems.
