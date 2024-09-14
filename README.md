@@ -4,7 +4,7 @@ I am a third-year Computer Engineering student with experience in data analysis,
 I love working on innovative projects that solve real-world problems.
 
 ### 🌱 Currently Learning:
-- Real-time Data Visualization (Grafana, Prometheus)
+- Real-time Data Visualization
 - Android Development
 - Machine Learning
 
